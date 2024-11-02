@@ -1,7 +1,7 @@
 # Paws
 - Clear Task
 - Multi Akun
-- ![03 11 2024_03 21 13_REC](https://github.com/user-attachments/assets/659ef5d2-544c-49de-8bbe-f577a30f29f0)
+- ![03 11 2024_03 49 31_REC](https://github.com/user-attachments/assets/9885fbf6-e1b1-406d-8d5e-4d70a1a5b2ab)
 
 # Register
 - https://t.me/PAWSOG_bot/PAWS?startapp=7S155mHn
