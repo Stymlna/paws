@@ -6,6 +6,11 @@
 # Register
 - https://t.me/PAWSOG_bot/PAWS?startapp=7S155mHn
 
+# licensekey
+```
+AirDropFamilyIDN
+```
+
 # Data.txt
 - isi queryidmu
 
